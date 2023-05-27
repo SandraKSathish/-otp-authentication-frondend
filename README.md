@@ -16,12 +16,13 @@ Nodejs
 ⚙️ Install
 After installing node and npm run the following commands to clone the repo and install all the dependencies that is used for this application.
 
-$ git clone 
+$ git clone https://github.com/SandraKSathish/-otp-authentication-frondend
 $ cd OTP AUTHENTICATION
 $ npm install
-
+....................................................................
 In the  Folder create .env file and put this code inside it.
-
+``
 .env
 
 REACT_APP_SERVER_DOMAIN='<server_domain>' # example 'http://localhost:8080'
+``
